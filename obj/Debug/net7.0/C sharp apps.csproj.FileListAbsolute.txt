@@ -1,0 +1,15 @@
+C:\Users\Belal\dway\Desktop\C sharp apps\bin\Debug\net7.0\C sharp apps.exe
+C:\Users\Belal\dway\Desktop\C sharp apps\bin\Debug\net7.0\C sharp apps.deps.json
+C:\Users\Belal\dway\Desktop\C sharp apps\bin\Debug\net7.0\C sharp apps.runtimeconfig.json
+C:\Users\Belal\dway\Desktop\C sharp apps\bin\Debug\net7.0\C sharp apps.dll
+C:\Users\Belal\dway\Desktop\C sharp apps\bin\Debug\net7.0\C sharp apps.pdb
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.csproj.AssemblyReference.cache
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.AssemblyInfoInputs.cache
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.AssemblyInfo.cs
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.csproj.CoreCompileInputs.cache
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.dll
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\refint\C sharp apps.dll
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.pdb
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\C sharp apps.genruntimeconfig.cache
+C:\Users\Belal\dway\Desktop\C sharp apps\obj\Debug\net7.0\ref\C sharp apps.dll
